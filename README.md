@@ -13,7 +13,7 @@
 ## Installation💻
 1. Clone
 
-     git clone https://github.com/Zerfallener-Succellus/SpringEstudo
+   git clone https://github.com/Zerfallener-Succellus/SpringEstudo
 
 2. Install Maven dependencies
 
